@@ -1,0 +1,13 @@
+{
+  "name": "nuxttest",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "dev": "nuxt"
+  },
+  "author": "weichaozhan",
+  "license": "ISC",
+  "dependencies": {
+    "nuxt": "^2.3.4"
+  }
+}
